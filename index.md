@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# About
+簡単な自己紹介やアピール。
+どんなことができる、したいのか。
 
-You can use the [editor on GitHub](https://github.com/blue-one1975/blue-one1975.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Profile
+- 名前（ハンドルネームも可）
+- 所在地（県や市まででOK）
+- 得意領域（Web開発、サーバー運用など）
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 見出し1
+## 見出し2
+### 見出し3
+本文です
 
-### Markdown
+改行
+改行されない文章です
+改行されない文章です
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+改行された文章です  
+改行された文章です(文章の末尾にスペースを 2 つ入れる)
 
-```markdown
-Syntax highlighted code block
+改行された文章です<br>
+改行された文章です(html可)
 
-# Header 1
-## Header 2
-### Header 3
+からの行は、段落になります(文章間を 1 行以上あける)
 
-- Bulleted
-- List
+リンク
+[リンクです](https://nnn.ed.nico)  
+[kramdown クイックリファレンス](https://kramdown.gettalong.org/quickref.html)
 
-1. Numbered
-2. List
+順序なしリスト(半角スペース要)
+- 要素1
+- 要素2
+- 要素3
 
-**Bold** and _Italic_ and `Code` text
+順序つきリスト
+1. 要素1
+2. 新要素
+3. 新要素2
+4. 要素2
+5. 要素3
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blue-one1975/blue-one1975.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
