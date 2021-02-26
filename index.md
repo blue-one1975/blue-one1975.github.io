@@ -59,8 +59,9 @@
 からの行は、段落になります(文章間を 1 行以上あける)
 
 リンク<br>
-[リンクです](https://nnn.ed.nico)  
-[kramdown クイックリファレンス](https://kramdown.gettalong.org/quickref.html)
+[N予備校](https://nnn.ed.nico)  
+[kramdown クイックリファレンス](https://kramdown.gettalong.org/quickref.html)  
+[Jekyll](http://jekyllrb-ja.github.io/)
 
 順序なしリスト(半角スペース要)
 - 要素1
